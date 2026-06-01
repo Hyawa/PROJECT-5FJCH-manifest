@@ -1,6 +1,6 @@
 {
   "company": "X Games",
-  "catalogVersion": "1.0.0",
+  "version": "1.0.0",
   "updatedAt": "2026-06-01T00:00:00Z",
   "games": [
     {
@@ -9,160 +9,134 @@
       "name": "Vyron Memory",
       "description": "Memory game multiplayer",
       "version": "1.2.0",
-
       "iconUrl": "https://logosmarcas.net/wp-content/uploads/2022/05/Pokemon-GO-Logo.png",
       "bannerUrl": "https://wallpapers.com/images/hd/desktop-cool-gaming-1920-x-1031-l6zdt12fkpl09jyw.jpg",
-
       "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
-
-      "sizeBytes": 582139412,
+      "size": 582139412,
+      "executable": "VyronMemory.exe",
       "developer": "X Games",
       "genre": "Puzzle",
-
       "releaseNotes": "new ranked mode"
     },
-	{"id": "game-002",
+    {
+      "id": "game-002",
       "slug": "vyron-memory",
       "name": "Vyron Memory",
       "description": "Memory game multiplayer",
       "version": "1.2.0",
-
       "iconUrl": "https://tm.ibxk.com.br/2023/03/29/jogos-de-celular-esquecidos-29154914269326.png",
       "bannerUrl": "https://wallpapers.com/images/hd/pc-gaming-shooting-rifle-1ilvod02ze0f7lu5.jpg",
-
       "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
-
-      "sizeBytes": 582139412,
+      "size": 582139412,
+      "executable": "VyronMemory.exe",
       "developer": "X Games",
       "genre": "Puzzle",
-
       "releaseNotes": "new ranked mode"
-	  },
-	  {
-		  "id": "game-003",
+    },
+    {
+      "id": "game-003",
       "slug": "vyron-memory",
       "name": "Vyron Memory",
       "description": "Memory game multiplayer",
       "version": "1.2.0",
-
       "iconUrl": "https://logosmarcas.net/wp-content/uploads/2022/05/Angry-Birds-Logo.png",
       "bannerUrl": "https://www.10wallpaper.com/wallpaper/1680x1050/1204/God_of_war_HD_Game_Wallpaper_1680x1050.jpg",
-
       "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
-
-      "sizeBytes": 582139412,
+      "size": 582139412,
+      "executable": "VyronMemory.exe",
       "developer": "X Games",
       "genre": "Puzzle",
-
       "releaseNotes": "new ranked mode"
-	  },
-	  {
-		  "id": "game-004",
+    },
+    {
+      "id": "game-004",
       "slug": "vyron-memory",
       "name": "Vyron Memory",
       "description": "Memory game multiplayer",
       "version": "1.2.0",
-
       "iconUrl": "https://cdn.site.com/icons/vyron-memory.png",
       "bannerUrl": "https://wallpaperaccess.com/full/2044894.jpg",
-
       "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
-
-      "sizeBytes": 582139412,
+      "size": 582139412,
+      "executable": "VyronMemory.exe",
       "developer": "X Games",
       "genre": "Puzzle",
-
       "releaseNotes": "new ranked mode"
-	  },
-	  {
-		  "id": "game-005",
-		  "slug": "vyron-memory",
-		  "name": "Vyron Memory",
-		  "description": "Memory game multiplayer",
-		  "version": "1.2.0",
-
-		  "iconUrl": "https://logosmarcas.net/wp-content/uploads/2022/05/Royal-Match-Logo.png",
-		  "bannerUrl": "https://cdn.site.com/banners/vyron-memory.jpg",
-
-		  "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
-
-		  "sizeBytes": 582139412,
-		  "developer": "X Games",
-		  "genre": "Puzzle",
-
-		  "releaseNotes": "new ranked mode"
-	  },
-	  {
-		  "id": "game-006",
-		  "slug": "vyron-memory",
-		  "name": "Vyron Memory",
-		  "description": "Memory game multiplayer",
-		  "version": "1.2.0",
-
-		  "iconUrl": "https://macmagazine.com.br/wp-content/uploads/2014/07/10-icone-assassins-creed-pirates.png",
-		  "bannerUrl": "https://cdn.mos.cms.futurecdn.net/Kuuyu5VZoVxqZxy48swupn.jpg",
-
-		  "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
-
-		  "sizeBytes": 582139412,
-		  "developer": "X Games",
-		  "genre": "Puzzle",
-
-		  "releaseNotes": "new ranked mode"
-	  },
-	  {
-		  "id": "game-007",
-		  "slug": "vyron-memory",
-		  "name": "Vyron Memory",
-		  "description": "Memory game multiplayer",
-		  "version": "1.2.0",
-
-		  "iconUrl": "https://img.tapimg.net/market/images/d9d57c30c119f35bda580da5aebc2fa6.jpg/appicon_m?t=1",
-		  "bannerUrl": "https://wallpaperaccess.com/full/625497.jpg",
-
-		  "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
-
-		  "sizeBytes": 582139412,
-		  "developer": "X Games",
-		  "genre": "Puzzle",
-
-		  "releaseNotes": "new ranked mode"
-	  },
-	  {
-		  "id": "game-008",
-		  "slug": "vyron-memory",
-		  "name": "Vyron Memory",
-		  "description": "Memory game multiplayer",
-		  "version": "1.2.0",
-
-		  "iconUrl": "https://macmagazine.com.br/wp-content/uploads/2011/06/02-XMen.png",
-		  "bannerUrl": "https://i.pinimg.com/originals/9b/b6/5b/9bb65b6e01ab81f80864c953dc56fccd.jpg",
-
-		  "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
-
-		  "sizeBytes": 582139412,
-		  "developer": "X Games",
-		  "genre": "Puzzle",
-
-		  "releaseNotes": "new ranked mode"
-	  },
-	  {
-		  "id": "game-009",
-		  "slug": "vyron-memory",
-		  "name": "Vyron Memory",
-		  "description": "Memory game multiplayer",
-		  "version": "1.2.0",
-
-		  "iconUrl": "https://img.tapimg.net/market/images/7595d4b1b98398e52067797beac53131.png/appicon_m?t=1",
-		  "bannerUrl": "https://www.riotgames.com/darkroom/original/684f5453c7fa28e3ac7dfb668c761db4:36d203093d2aba6d2f5ffbd433b09174/2xko-social-3840x2160-desktopwallpaper-duo-ekko-ahri.png",
-
-		  "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
-
-		  "sizeBytes": 582139412,
-		  "developer": "X Games",
-		  "genre": "Puzzle",
-
-		  "releaseNotes": "new ranked mode"
-	  }
+    },
+    {
+      "id": "game-005",
+      "slug": "vyron-memory",
+      "name": "Vyron Memory",
+      "description": "Memory game multiplayer",
+      "version": "1.2.0",
+      "iconUrl": "https://logosmarcas.net/wp-content/uploads/2022/05/Royal-Match-Logo.png",
+      "bannerUrl": "https://cdn.site.com/banners/vyron-memory.jpg",
+      "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
+      "size": 582139412,
+      "executable": "VyronMemory.exe",
+      "developer": "X Games",
+      "genre": "Puzzle",
+      "releaseNotes": "new ranked mode"
+    },
+    {
+      "id": "game-006",
+      "slug": "vyron-memory",
+      "name": "Vyron Memory",
+      "description": "Memory game multiplayer",
+      "version": "1.2.0",
+      "iconUrl": "https://macmagazine.com.br/wp-content/uploads/2014/07/10-icone-assassins-creed-pirates.png",
+      "bannerUrl": "https://cdn.mos.cms.futurecdn.net/Kuuyu5VZoVxqZxy48swupn.jpg",
+      "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
+      "size": 582139412,
+      "executable": "VyronMemory.exe",
+      "developer": "X Games",
+      "genre": "Puzzle",
+      "releaseNotes": "new ranked mode"
+    },
+    {
+      "id": "game-007",
+      "slug": "vyron-memory",
+      "name": "Vyron Memory",
+      "description": "Memory game multiplayer",
+      "version": "1.2.0",
+      "iconUrl": "https://img.tapimg.net/market/images/d9d57c30c119f35bda580da5aebc2fa6.jpg/appicon_m?t=1",
+      "bannerUrl": "https://wallpaperaccess.com/full/625497.jpg",
+      "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
+      "size": 582139412,
+      "executable": "VyronMemory.exe",
+      "developer": "X Games",
+      "genre": "Puzzle",
+      "releaseNotes": "new ranked mode"
+    },
+    {
+      "id": "game-008",
+      "slug": "vyron-memory",
+      "name": "Vyron Memory",
+      "description": "Memory game multiplayer",
+      "version": "1.2.0",
+      "iconUrl": "https://macmagazine.com.br/wp-content/uploads/2011/06/02-XMen.png",
+      "bannerUrl": "https://i.pinimg.com/originals/9b/b6/5b/9bb65b6e01ab81f80864c953dc56fccd.jpg",
+      "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
+      "size": 582139412,
+      "executable": "VyronMemory.exe",
+      "developer": "X Games",
+      "genre": "Puzzle",
+      "releaseNotes": "new ranked mode"
+    },
+    {
+      "id": "game-009",
+      "slug": "vyron-memory",
+      "name": "Vyron Memory",
+      "description": "Memory game multiplayer",
+      "version": "1.2.0",
+      "iconUrl": "https://img.tapimg.net/market/images/7595d4b1b98398e52067797beac53131.png/appicon_m?t=1",
+      "bannerUrl": "https://www.riotgames.com/darkroom/original/684f5453c7fa28e3ac7dfb668c761db4:36d203093d2aba6d2f5ffbd433b09174/2xko-social-3840x2160-desktopwallpaper-duo-ekko-ahri.png",
+      "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
+      "size": 582139412,
+      "executable": "VyronMemory.exe",
+      "developer": "X Games",
+      "genre": "Puzzle",
+      "releaseNotes": "new ranked mode"
+    }
   ]
 }
