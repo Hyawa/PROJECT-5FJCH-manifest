@@ -20,18 +20,18 @@
     },
     {
       "id": "game-002",
-      "slug": "vyron-memory",
-      "name": "Vyron Memory",
-      "description": "Memory game multiplayer",
-      "version": "1.2.0",
+      "slug": "snake-game",
+      "name": "Snake Game",
+      "description": "Snake Game Test",
+      "version": "0.0.1",
       "iconUrl": "https://tm.ibxk.com.br/2023/03/29/jogos-de-celular-esquecidos-29154914269326.png",
       "bannerUrl": "https://wallpapers.com/images/hd/pc-gaming-shooting-rifle-1ilvod02ze0f7lu5.jpg",
-      "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
-      "size": 582139412,
-      "executable": "VyronMemory.exe",
+      "downloadUrl": "https://github.com/Hyawa/Snake_Game_Test/releases/download/v.0.0.1/SnakeGame-0.0.1.zip",
+      "size": 401139000,
+      "executable": "snakegame.exe",
       "developer": "X Games",
-      "genre": "Puzzle",
-      "releaseNotes": "new ranked mode"
+      "genre": "Casual",
+      "releaseNotes": "new game test"
     },
     {
       "id": "game-003",
