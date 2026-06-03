@@ -64,21 +64,6 @@
       "releaseNotes": "new ranked mode"
     },
     {
-      "id": "game-005",
-      "slug": "vyron-memory",
-      "name": "Vyron Memory",
-      "description": "Memory game multiplayer",
-      "version": "1.2.0",
-      "iconUrl": "https://logosmarcas.net/wp-content/uploads/2022/05/Royal-Match-Logo.png",
-      "bannerUrl": "https://cdn.site.com/banners/vyron-memory.jpg",
-      "downloadUrl": "https://github.com/Hyawa/Vyron_Memory/releases/download/v0.0.1/VyronMemory-0.0.1.rar",
-      "size": 582139412,
-      "executable": "VyronMemory.exe",
-      "developer": "X Games",
-      "genre": "Puzzle",
-      "releaseNotes": "new ranked mode"
-    },
-    {
       "id": "game-006",
       "slug": "vyron-memory",
       "name": "Vyron Memory",
